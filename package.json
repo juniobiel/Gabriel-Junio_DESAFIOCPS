@@ -2,7 +2,10 @@
   "name": "desafio-cps",
   "version": "1.0.0",
   "description": "Aplicacao para o desafio CPS",
-  "main": "index.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
   "repository": "https://github.com/juniobiel/Gabriel-Junio_DESAFIOCPS",
   "author": "Gabriel Junio",
   "license": "MIT",
