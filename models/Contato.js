@@ -16,6 +16,6 @@ const Contato = db.sequelize.define('contato', {
 })
 
 //Criar tabela
-//Contato.sync({force: true})
+Contato.sync({force: true})
 
 module.exports = Contato;
