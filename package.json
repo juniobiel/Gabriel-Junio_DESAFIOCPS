@@ -4,7 +4,7 @@
   "description": "Aplicacao para o desafio CPS",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app"
   },
   "repository": "https://github.com/juniobiel/Gabriel-Junio_DESAFIOCPS",
   "author": "Gabriel Junio",
